@@ -15,9 +15,6 @@ I'm currently a student trying to get a job as a software engineer. I spend most
 <summary>
 My GitHub stats
 </summary>
-
-<br>
-
 #### Github Stats
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=nickcode4&count_private=true&theme=tokyonight&hide=contribs,prs)
